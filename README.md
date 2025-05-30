@@ -39,6 +39,10 @@ I design fast, modern, and mobile-friendly websites using:
 
 ---
 
+<p>&nbsp;</p>
+<p>&nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&amp;logoColor=black" alt="JavaScript" /></a> &nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&amp;logoColor=white" alt="Python" /></a>&nbsp;&nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&amp;logoColor=white" alt="Bootstrap" /></a>&nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&amp;logoColor=white" alt="GitHub Pages" /></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&amp;logoColor=white" alt="Colab" /></a> &nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white" alt="Git" /></a> &nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&amp;logoColor=white" alt="Google Sheets" /></a> &nbsp; &nbsp;&nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow" /></a> &nbsp; &nbsp; <a href="https://github.com/itz-akhilesh"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&amp;logoColor=white" alt="Visual Studio Code" /></a></p>
+
+---
 ### 🌟 GitHub Stats
 
 <p align="center">
