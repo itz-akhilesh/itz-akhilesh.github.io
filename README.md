@@ -1,50 +1,64 @@
-# itz-akhilesh.github.io
-# 👋 Hi, I’m Akhilesh S.
+<h1 align="center">Hi, I’m Akhilesh 👋</h1>
 
-I’m a **Web Designer** specializing in modern, user-friendly websites using platforms like:
-
-- 🟦 WordPress (Elementor, Generatepress, WooCommerce)
-- 🛒 Shopify (theme customization & store setup)
-- ✨ Wix & Squarespace (creative landing pages, business websites)
-- 🎨 Figma (currently learning for advanced UI/UX design)
-- 💻 HTML & CSS (custom sections, responsive design tweaks)
-- ⚙️ Partial knowledge of JavaScript & PHP
+<p align="center">
+  <em>Web Designer & Frontend Developer | WordPress, Shopify, UI/UX Design</em>
+</p>
 
 ---
 
-## 🧩 What I Can Do
+### 💡 About Me
 
-- Build beautiful, responsive websites for businesses and personal brands
-- Customize WordPress & Shopify themes beyond basic settings
-- Design eye-catching landing pages using drag-and-drop builders
-- Edit and improve HTML/CSS code to match design needs
-- Use Canva for social media kits, banners, or branded assets
+I design fast, modern, and mobile-friendly websites using:
 
----
-
-## 📂 Sample Projects
-
-### 🌐 WordPress Custom Landing Page
-A minimal and responsive landing page built using Elementor + custom CSS tweaks.  
-[🔗 View Code](#) — *(replace with your repo link)*
-
-### 🛍️ Shopify Homepage Redesign (Theme Customization)
-Custom header, feature sections, and product layout using Liquid, HTML, and CSS.  
-[🔗 View Code](#)
-
-### 📱 Wix Portfolio Site (Design Concept)
-A concept design turned into a full portfolio site with animations and media.  
-[🔗 View Screenshots](#)
+- 🟦 WordPress (Elementor, Divi, WooCommerce)  
+- 🛒 Shopify (Theme customization & page building)  
+- ✨ Wix & Squarespace (Creative business websites)  
+- 🎨 Figma (Learning advanced UI/UX workflows)  
+- 💻 HTML & CSS (Responsive designs, custom tweaks)  
+- ⚙️ JavaScript basics, GSAP, and Lottie animations  
 
 ---
 
-## 💬 Let's Connect (on Upwork!)
+### 🧩 What I Can Do
 
-I’m available for freelance work on Upwork. You can view my full profile and message me there:
-
-👉 [Visit My Upwork Profile](#) *(insert your Upwork link)*
+- Create engaging landing pages & business websites  
+- Customize WordPress & Shopify themes deeply  
+- Build frontend animations using GSAP & Lottie  
+- Style custom HTML/CSS layouts with ease  
+- Use Canva for branded visuals & social kits  
 
 ---
 
-⭐ I’m constantly learning and improving. Feel free to explore my repos for small experiments, design concepts, and full projects!
+### 🔍 Featured Projects
 
+| Project | Description | Link |
+|--------|-------------|------|
+| **Landing Page – Service Business** | A clean, responsive service-based landing page with strong visual hierarchy and custom styling | [🔗 View Repo](https://github.com/itz-akhilesh/landing-page-service-business) |
+| **Lottie Integration Site** | Lightweight animation integration using Lottie & smooth frontend design | [🔗 View Repo](https://github.com/itz-akhilesh/lottie-integration-site) |
+| **GSAP Hero Animation** | Eye-catching animated hero section using GreenSock for seamless motion | [🔗 View Repo](https://github.com/itz-akhilesh/gsap-hero-animation) |
+
+---
+
+### 🌟 GitHub Stats
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=itz-akhilesh&show_icons=true&theme=tokyonight" alt="Akhilesh's GitHub Stats" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itz-akhilesh&layout=compact&theme=tokyonight" alt="Akhilesh's Top Languages" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itz-akhilesh&theme=tokyonight" alt="GitHub trophies" />
+</p>
+
+---
+
+### 🎯 What I’m Learning
+
+```diff
+- Figma for advanced UI/UX design
+- More JavaScript animations with GSAP
+- Improving SEO & website performance
