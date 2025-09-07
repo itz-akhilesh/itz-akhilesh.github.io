@@ -67,7 +67,7 @@ I design fast, modern, and mobile-friendly websites using:
 
 ```diff
 - Figma for advanced UI/UX design
-- More JavaScript animations with GSAP
+- React and nextjs website with GSAP animations
 - Improving SEO & website performance
 
 ```
